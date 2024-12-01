@@ -1,0 +1,4 @@
+baseURL = 'https://www.presenta.si/'
+languageCode = 'en-us'
+title = 'Presenta'
+theme = 'ananke'
